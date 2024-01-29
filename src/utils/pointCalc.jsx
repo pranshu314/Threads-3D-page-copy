@@ -1,8 +1,8 @@
 const Min_Radius = 7.5;
 const Max_Radius = 15;
 const Depth = 2;
-const Left_Color = "F79A00";
-const Right_Color = "FD12D1";
+const Left_Color = "#1ECBE1";
+const Right_Color = "#FFFFFF";
 const Num_Tetra = 2500
 
 const randomBetweenInterval = (min, max) => {
